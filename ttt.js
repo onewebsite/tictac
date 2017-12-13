@@ -59,7 +59,6 @@ Color = {
   blue  : '#00f',
   cyan  : '#00f',
   magenta  : '#00f'
-  indigo  : '#00f'
 }
 
 Tile = function(ctxt, x, y, size, color) {
